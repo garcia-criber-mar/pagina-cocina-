@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.contenido{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenido-img{
+    width: 300px;
+    margin:auto ;
+}
+.img{
+    width: 100%;
+}
+

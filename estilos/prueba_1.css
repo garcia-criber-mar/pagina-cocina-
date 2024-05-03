@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family:arial;
+}
+.contenido{
+    width: 100%;
+	display: flex ;
+	
+}
+  
+.contenido-img{
+     width: 300px;
+	 height: 100px;
+	 margin: 0px;
+	
+	 
+}
+.img {
+	width: 100%;
+	
+}
